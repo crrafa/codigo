@@ -10,5 +10,8 @@ d=25
 
 #esta funcion utilizar recursividad
 maximo = mayor(mayor(a,b), mayor(c,d))
+print("Hola mundo")
 print ("El numero maximo es",maximo)
+
+print ("final de la linea")
     
