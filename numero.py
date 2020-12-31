@@ -10,5 +10,5 @@ d=25
 
 #esta funcion utilizar recursividad
 maximo = mayor(mayor(a,b), mayor(c,d))
-print (maximo)
+print ("El numero maximo es",maximo)
     
