@@ -1,5 +1,5 @@
 
 def main():
-    pass
+    """Esto es un comentario para probar los merge conflictos"""
 
 main()
