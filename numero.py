@@ -9,11 +9,9 @@ c=14
 d=25
 
 #esta funcion utilizar recursividad
+print("Hola el numero mayor es")
 maximo = mayor(mayor(a,b), mayor(c,d))
-print("Hola mundo")
-print ("El numero maximo es",maximo)
 
-print ("final de la linea")
 
 #se eliminara este comentario
     # Esto es para comprobar la sobreescritura de git
